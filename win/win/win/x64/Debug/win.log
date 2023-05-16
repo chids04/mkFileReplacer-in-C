@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\chids\Documents\programming\mkFileReplacer-in-C\win\win\win\main.c(16,5): warning C4996: 'wcstombs': This function or variable may be unsafe. Consider using wcstombs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\chids\Documents\programming\mkFileReplacer-in-C\win\win\win\main.c(23,5): warning C4996: 'wcstombs': This function or variable may be unsafe. Consider using wcstombs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  win.vcxproj -> C:\Users\chids\Documents\programming\mkFileReplacer-in-C\win\win\x64\Debug\win.exe
